@@ -39,7 +39,7 @@ setup(
     tests_require=test_require,
     cmdclass={"test": Tox},
     packages=find_packages(exclude=['test']),
-    author="Dana Powers",
+    author="Timi.long",
     author_email="lixiaolong@smuer.cn",
     url="https://github.com/lxl0928/timi_kafka",
     license="Apache License 2.0",
